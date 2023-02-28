@@ -7,13 +7,13 @@ import Main from './components/Main';
 
 const App = () => {
 return(
-  <div className="main_wrapper">
+  <div>
     <Header/>
     <div className='main_block_wrap'>
     <div className='main_item'>
     <Nav/>
     <Main/>
-  </div>
+  </div> 
     </div>
      
 
