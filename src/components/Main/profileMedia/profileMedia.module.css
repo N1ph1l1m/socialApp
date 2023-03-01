@@ -1,0 +1,24 @@
+.profile_media_wrapper {
+  position: absolute;
+  top: 10px;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.profile_wrapper_content {
+  width: 550px;
+  height: 100%;
+}
+.profile_items_media {
+  width: 100%;
+  height: 354px;
+  margin-bottom: 10px;
+  background-color: white;
+  border-radius: 10px;
+}
+.profile_item_addNews {
+  width: 100%;
+  height: 52px;
+  border-radius: 10px;
+  background-color: white;
+}

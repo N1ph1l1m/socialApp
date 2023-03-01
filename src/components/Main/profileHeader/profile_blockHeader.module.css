@@ -1,12 +1,4 @@
-.main_wrap {
-    min-width: 911px;
-    height: 100%;
-    position: relative;
-    margin-top: 10px;
-    margin-left: 125px;
-  }
-  
-  .main_profile_block {
+.main_profile_blockHeader {
     max-width: 911px;
     background-color: white;
     border-radius: 10px;
@@ -75,54 +67,3 @@
     top: 4px;
     right: 17px;
   }
-  /* */
-  .profile_wrapper {
-    position: absolute;
-    top: 365px;
-    height: 100%;
-    display: flex;
-    justify-content: space-between;
-  }
-  .profile_wrapper_content {
-    width: 550px;
-    height: 100%;
-  }
-  .profile_items_media {
-    width: 100%;
-    height: 354px;
-    margin-bottom: 10px;
-    background-color: white;
-    border-radius: 10px;
-  }
-  .profile_item_addNews {
-    width: 100%;
-    height: 52px;
-    border-radius: 10px;
-    background-color: white;
-  }
-  .wrapper_social {
-    /* border:1px solid green; */
-    width: 345px;
-    margin-left: 16px;
-  }
-  .social_item_friends {
-    width: 345px;
-    height: 244px;
-    background-color: white;
-    border-radius: 10px; 
-    margin-bottom: 10px;
-  }
-  .social_item_gifts {
-    width: 345px;
-    height: 187px;
-    border-radius: 10px;
-    background-color: white;
-    margin-bottom: 10px;
-  }
-  .social_item_subscribers {
-    width: 345px;
-    height: 354px;
-    border-radius: 10px;
-    background-color: white;
-  }
-  

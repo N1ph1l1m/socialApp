@@ -1,0 +1,24 @@
+.media_post_wrapper{
+    background-color:white;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top:10px;
+    width: 550px;
+    min-height: 312px;
+    border-radius: 10px;
+  }
+  .media_post_header{
+    border-radius: 10px;
+    /* border: 1px solid blue; */
+    height: 56px;
+    width: 550px;
+  }
+  .media_post_footer{
+    border-radius: 10px;
+    /* border: 1px solid rgb(132, 255, 0); */
+    height: 56px;
+    bottom:1px;
+    width: 550px;
+  }

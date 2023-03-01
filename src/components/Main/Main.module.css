@@ -1,0 +1,14 @@
+.main_wrap {
+    min-width: 911px;
+    height: 100%;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 125px;
+    
+  }
+
+.main_item{
+  position: relative;
+}
+
+  
