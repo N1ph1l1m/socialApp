@@ -1,5 +1,5 @@
 import React from "react";
-import ps from "./profileSocial.module.css";
+import ps from "./profileSocial.module.scss";
 
 const ProfileSocial = () => {
     return (

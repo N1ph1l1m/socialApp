@@ -1,5 +1,5 @@
 import React from 'react';
-import  n from './Nav.module.css';
+import  n from './Nav.module.scss';
 
 
 const Nav = () =>{

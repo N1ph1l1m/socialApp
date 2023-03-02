@@ -1,5 +1,5 @@
 import React from "react";
-import pm from "./profileMedia.module.css";
+import pm from "./profileMedia.module.scss";
 import Posts from "./Posts/Posts"
 
 const ProfileMedia = () => {

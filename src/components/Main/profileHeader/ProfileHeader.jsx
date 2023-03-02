@@ -1,5 +1,5 @@
 import React from "react";
-import ph from "./profile_blockHeader.module.css";
+import ph from "./profile_blockHeader.module.scss";
 
 const ProfileBlockHeader = () => {
   return (

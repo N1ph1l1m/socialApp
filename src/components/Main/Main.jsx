@@ -1,5 +1,5 @@
 import React from "react";
-import m from "./Main.module.css";
+import m from "./Main.module.scss";
 import ProfileBlockHeader from "./profileHeader/ProfileHeader";
 import ProfileMedia from "./profileMedia/ProfileMedia"
 import ProfileSocial from "./ProfileSocial/ProfileSocial";

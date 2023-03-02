@@ -1,0 +1,73 @@
+.media_post_wrapper{
+    background-color:white;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top:10px;
+    width: 550px;
+    height:auto;
+    border-radius: 10px;
+    padding: 10px;
+     border:1px solid red;
+  }
+  .media_post_footer_item , .media_post_header_item{
+    display: flex;
+    justify-content: start;
+    width: 510px;
+    height: 35px;
+  }
+
+  .media_post_header{
+    position: relative;
+    border-radius: 10px;
+    height: 56px;
+    width: 550px;
+
+    .profileName{
+      margin-top: 7px;
+      margin-left: 3px;  
+      }
+      .media_post_header_item{
+        height: 40px;
+      }
+      .media_post_header_item>img{
+        width: 40px;
+        height: 40px;
+        border-radius:50%;
+      }
+    
+    
+  }
+  
+.media_post_content{
+    width: 510px;
+    min-height: 200px;
+    border:1px solid red;
+}
+
+
+  .media_post_footer{
+    border-radius: 10px;
+    height: 56px;
+    bottom:1px;
+    width: 540px;
+    padding-top:19px;
+    bottom:1px;
+    
+    .footer_button{
+      width: 40px;
+      height: 30px;
+      border-radius:10px;
+      background-color: #67a6ff25;
+      border:1px solid gray;
+      margin-left: 4px;
+      padding: 0px;
+    }
+    .footer_button>img{
+      width: 25px;
+      height: 25px;
+    }
+  }
+  
+  
