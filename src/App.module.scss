@@ -3,11 +3,14 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  position: relative;
 }
  .main_item {
   position: absolute;
-  min-width: 1040px;
+  max-width: 1040px;
   height: auto;
+  // border: 1px solid red;
+  
 } 
 
 

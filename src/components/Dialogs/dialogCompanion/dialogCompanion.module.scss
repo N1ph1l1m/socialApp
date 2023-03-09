@@ -1,0 +1,34 @@
+.dialog_companion_wrap{
+    width: 314px;
+    height:auto;
+  }
+.dialog_companion_item{
+    width: 100%;
+    height: 65px;
+    
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-around;
+  }
+  .dialog_companion_avatar{
+    width: 56px;
+    height: 56px;
+  }
+
+.dialog_companion_user{
+    width: 229px;
+    height: 62px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.282);
+}
+.dialog_companion_userName{
+    margin-top: 8px;
+    margin-right: 5px;
+}
+.dialog_companion_userMessage{
+    // border:1px solid green;
+height: 15px;
+width: 229px;
+margin-top: 15px;
+overflow: hidden;
+}
